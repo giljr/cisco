@@ -5,9 +5,9 @@ Cisco Lab Activities - Cisco Packet Tracer Labs:):rocket:
 
 ```
 
-     Cisco is the  
-major vendor network 
-   outhere!
+Cisco is the  
+major network vendor  
+            outhere!
 
 ```
 Products in this category are Cisco's range of routers, switches, 
