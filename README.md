@@ -48,7 +48,7 @@ and
 
 [Wireshark: Packet Analysis and Ethical Hacking: Core Skills](https://www.udemy.com/course/wireshark-packet-analysis-and-ethical-hacking-core-skills/)
 
-From Udemy: basic to advanced network analysis using Wireshark! 
+From Udemy: Basic to advanced network analysis using Wireshark! 
 Ethical Hacking using Kali Linux: Passwords, Security, Protocol
 
 and From Cisco NetAcad - Network Academy:
@@ -60,12 +60,15 @@ Introduction to Packet Tracer
 
 Bold yourself!
 
-Let's go together in this endeavor!
+Let's go together in this endeavor! Motivate yourself!
 
 To know more about this project and others about Arduino, Rpi, PIC, Blender, Unity3d, LEGO and more,
-please visit [Jungletronics](https://medium.com/jungletronics) and [Kidstronics](https://medium.com/kidstronics)
+please visit [Jungletronics](https://medium.com/jungletronics) and [Kidstronics](https://medium.com/kidstronics).
 
 Be Welcomed!
+
+Note: I appreciate the generosity of this venerated master in network e-learning by sending me, 
+free of charge, the complete course of CCNA after acquiring the Wireshark course. Thank you very much David Bombal o/
 
 ### Projects Cisco Series List (from 2020 until now) :ant:
 
