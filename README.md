@@ -59,7 +59,7 @@ Welcome!
 
 ### Projects Cisco Series List (from 2020 until now) :ant:
 
-[#CCLAB_00](cisco/saves/CCLAB_00/) - The simplest computer network ever invented in CC Packet Tracer:)
+[#CCLAB_00](CCLAB_00/) - The simplest computer network ever invented in CC Packet Tracer:)
 
 
 ### License
