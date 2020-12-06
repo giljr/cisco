@@ -7,7 +7,7 @@ Cisco Lab Activities - Cisco Packet Tracer Labs:):rocket:
 
 Cisco is the  
 major network vendor  
-            outhere!
+            out there!
 
 ```
 Products in this category are Cisco's range of routers, switches, 
@@ -16,25 +16,32 @@ energy and building management systems and media aware network equipment.
 unified computing, unified fabric, data centre switching, 
 storage networking and cloud computing services.
 
-Packet Tracer is an exciting network design, 
+[Packet Tracer](https://www.netacad.com/courses/packet-tracer) is an exciting network design, 
 simulation and modelling tool that allows you to 
 develop your skill set in networking, cybersecurity, 
-and the Internet of Things (IoT). It allows you to model 
+and the Internet of Things (IoT)\o/. It allows you to model 
 complex systems without the need for dedicated equipment. 
 
-It is used across numerous Cisco Academy courses to help develop 
+It is used across numerous [Cisco Academy](https://www.cisco.com/c/m/en_sg/partners/cisco-networking-academy/index.html) courses to help develop 
 and assess the skill set necessary for successful completion of the course.
 
-In this repo we offer our laboratories in this incredible tool, Packet Tracer,
-and we will, as we learned, save all the laboratories to share with the 
-cisco community in a Step-by step fashion our learning process, 
-from the very beginning:)
+In this repo we offer our Cisco Labs in this incredible tool, [Packet Tracer](https://www.netacad.com/courses/packet-tracer),
+and we will, as we learned network, save all these laboratories to share with the 
+Cisco Community in a step by step fashion, incrementally, as far as we can reach 
+and levarage our learning process, from the very beginning skill:)
 
-We will follow David Bombal lessons at:
+```
+
+Gotta walk 
+     before you run!
+
+```
+
+We will follow David Bombal lessons at Udemy Academy:
 
 [Cisco CCNA 200-301 Exam: Complete Course with practical labs](https://www.udemy.com/course/cisco-ccent-icnd1-100-105-complete-course-sims-and-gns3/) 
 
-From Udemy: The complete course to help you prepare and pass Cisco's 
+The complete course to help you prepare and pass Cisco's 
 newest CCNA 200-301 exam. Everything you need: Theory and labs
 
 and 
@@ -44,18 +51,21 @@ and
 From Udemy: basic to advanced network analysis using Wireshark! 
 Ethical Hacking using Kali Linux: Passwords, Security, Protocol
 
-and 
+and From Cisco NetAcad - Network Academy:
 
 [Introduction to Packet Tracer English 1120](https://news-blogs.cisco.com/americas/pt/tag/netacad/?dtid=osscdc000283)
 
 Introduction to Packet Tracer
-From Cisco NetAcad - Network Academy
+
 
 Bold yourself!
 
 Let's go together in this endeavor!
 
-Welcome!
+To know more about this project and others about Arduino, Rpi, PIC, Blender, Unity3d, LEGO and more,
+please visit [Jungletronics](https://medium.com/jungletronics) and [Kidstronics](https://medium.com/kidstronics)
+
+Be Welcomed!
 
 ### Projects Cisco Series List (from 2020 until now) :ant:
 
