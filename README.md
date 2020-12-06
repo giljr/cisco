@@ -32,21 +32,21 @@ from the very beginning:)
 
 We will follow David Bombal lessons at:
 
-[Cisco CCNA 200-301 Exam: Complete Course with practical labs](https://www.udemy.com/course/cisco-ccent-icnd1-100-105-complete-course-sims-and-gns3/) and 
+[Cisco CCNA 200-301 Exam: Complete Course with practical labs](https://www.udemy.com/course/cisco-ccent-icnd1-100-105-complete-course-sims-and-gns3/) 
+
 From Udemy: The complete course to help you prepare and pass Cisco's 
 newest CCNA 200-301 exam. Everything you need: Theory and labs
 
 and 
 
-[Wireshark: Packet Analysis and Ethical Hacking: Core Skills]
-(https://www.udemy.com/course/wireshark-packet-analysis-and-ethical-hacking-core-skills/)
+[Wireshark: Packet Analysis and Ethical Hacking: Core Skills](https://www.udemy.com/course/wireshark-packet-analysis-and-ethical-hacking-core-skills/)
+
 From Udemy: basic to advanced network analysis using Wireshark! 
 Ethical Hacking using Kali Linux: Passwords, Security, Protocol
 
 and 
 
-[Introduction to Packet Tracer English 1120]
-(https://news-blogs.cisco.com/americas/pt/tag/netacad/?dtid=osscdc000283)
+[Introduction to Packet Tracer English 1120](https://news-blogs.cisco.com/americas/pt/tag/netacad/?dtid=osscdc000283)
 
 Introduction to Packet Tracer
 From Cisco NetAcad - Network Academy
@@ -59,7 +59,7 @@ Welcome!
 
 ### Projects Cisco Series List (from 2020 until now) :ant:
 
-[CCLAB_00](CCLAB_00/) - The simplest computer network ever invented in CC Packet Tracer:)
+[CCLAB_00](saves/CCLAB_00/) - The simplest computer network ever invented in CC Packet Tracer:)
 
 
 ### License
