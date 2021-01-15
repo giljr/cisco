@@ -73,7 +73,8 @@ free of charge, the complete course of CCNA after acquiring the Wireshark course
 ### Projects Cisco Series List (from 2020 until now) :ant:
 
 [#CCLAB_00](saves/) - The simplest computer network ever invented in CC Packet Tracer:)
-[#CCLAB_01](saves/) - [Cisco Packet Tracer Intro](https://medium.com/jungletronics/cisco-packet-tracer-intro-88c7d9d42b2) - Cisco IOS Command Line Interface Tutorial #CiscoSeries # Episode 00
+
+[#CCLAB_01](saves/) - Cisco Packet Tracer Intro - [Cisco IOS Command Line Interface Tutorial](https://medium.com/jungletronics/cisco-packet-tracer-intro-88c7d9d42b2) #CiscoSeries # Episode 00
 
 
 ### License
